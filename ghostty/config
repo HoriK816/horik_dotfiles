@@ -21,6 +21,9 @@
 # reloaded while running; some only apply to new windows and others may require
 # a full restart to take effect.
 
+# term info
+shell-integration-features = ssh-terminfo,ssh-env
+
 # font
 font-family             = "JetBrainsMono Nerd Font"
 font-synthetic-style = true
