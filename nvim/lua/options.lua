@@ -3,6 +3,7 @@ local opt = vim.opt
 -- genral settings 
 opt.number   = true 
 opt.autoread = true
+vim.opt.mouse = ""
 
 -- indentation
 opt.autoindent = true 
