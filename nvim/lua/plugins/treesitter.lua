@@ -29,6 +29,7 @@ return{
 
                 -- compiled language 
                 "c",
+                "c_sharp",
                 "cpp",
                 "java",
                 "vim",
