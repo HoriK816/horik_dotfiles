@@ -21,6 +21,8 @@
 # reloaded while running; some only apply to new windows and others may require
 # a full restart to take effect.
 
+macos-option-as-alt = true 
+
 # term info
 shell-integration-features = ssh-terminfo,ssh-env
 
