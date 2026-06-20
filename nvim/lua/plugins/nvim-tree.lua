@@ -15,6 +15,12 @@ return {
                     side  = "left",
                     width = 30,
                 },
+                filters = {
+                    dotfiles = false,
+                    custom = {
+                        "\\.meta$",
+                    },
+                },
             })
             
             vim.api.nvim_create_autocmd("VimEnter", {
